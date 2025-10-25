@@ -1,0 +1,23 @@
+[
+{
+    "title":"стілець",
+    "price": 1300,
+    "img":"th_5ff661dd701.jpg",
+    "description":"стул "
+},
+
+{
+    "title":"настільна лампа",
+    "price":2500 ,
+    "img":"bb-79f8a48860f88.jpg",
+    "description":"лампа"
+},
+{
+    "title":"диван",
+    "price": 12000,
+    "img":"2187113053_310_430.jpg",
+    "description":" диван"
+}
+
+
+]
