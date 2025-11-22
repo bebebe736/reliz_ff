@@ -2,27 +2,27 @@
 {
     "title":"Стілець",
     "price": 1300,
-    "img":"8658833_2.webp",
+    "img":"fypav.jpg",
     "description":"Стілець "
 },
 
 {
     "title":"Настільна лампа",
     "price":2500 ,
-    "img":"bb-79f8a48860f88.jpg",
+    "img":"7eb91fd5e64753a443b44695f86539b3.JPG",
     "description":"Лампа"
 },
 {
     "title":"Диван",
     "price": 12000,
-    "img":"2187113053_310_430.jpg",
+    "img":"05-1275x850.webp",
     "description":" Диван"
 },
 
 {
     "title":"Кухонний стіл",
     "price": 17000,
-    "img":"kukhonnyi-stil-martin-black-01-s-54370080748739.jpg",
+    "img":"Obedennyy_stol_Kross_0000.WEBP.340.WEBP.pagespeed.ce.R_sxkg7JeM.WEBP",
     "description":" Стіл"
 },
 
@@ -50,8 +50,8 @@
 {
     "title":"Ліжко двоповерхове",
     "price": 12000,
-    "img":"dvoyarusne-lizhko-volodymyr.jpg",
-    "description":" Диван"
+    "img":"Krovat-Dvuhyarusnaya-removebg-preview.WEBP.970.webp",
+    "description":"ліжко"
 },
 
 {
@@ -71,14 +71,14 @@
 {
     "title":"Ліжко дитяче поліція",
     "price": 10000,
-    "img":"w550_content_catalog_images_2023_01_14_izobrazhenie_viber_2022-10-06_23-26-21-486-01-01.jpeg",
+    "img":"2060705813_w640_h640_2060705813.webp",
     "description":"Ліжко дитяче поліція"
 },
 
 {   
     "title":"Крісло-качалка",
     "price": 5000,
-    "img":"shopping.webp",
+    "img":"3811632245_w640_h320_kreslo-kachalka-pletennoe.webp",
     "description":" Крісло-качалка"
 },
 
@@ -99,15 +99,70 @@
 {   
     "title":"Посудомийка",
     "price": 13000,
-    "img":"posudomyika-60sm-indesit-dfe-1b19-13-24050911809538.jpg",
+    "img":"photography-dishwasher-white-background_1288657-77166.jpg",
     "description":"Посудомийка"
 },
 
 {   
     "title":"Шафа",
     "price":8000,
-    "img":"lnk18n5celm4bb9ctnddtmoeph.webp",
+    "img":"shafa_kupe_2_8m_dzerkalo_z_fotodrukom_chotyrokhdverna.jpg",
     "description":"Шафа"
-}
+},
 
+{
+      "title":"Журнальний столик",
+    "price":7000,
+    "img":"6645201770_w640_h640_6645201770.webp",
+    "description":"журнальний столик"
+},
+
+{
+ "title":"Пуфик",
+    "price":6000,
+    "img":"aviva_3.jpg",
+    "description":"Пуфик"
+},
+
+{
+ "title":"Тумба",
+    "price":4000,
+    "img":"n1200008mm40·3a-640x480.jpg",
+    "description":"Тумба"
+},
+
+{
+ "title":"Полка",
+    "price":3000,
+    "img":"e7ee5d69-1136-4034-beaa-af8f03651373.webp",
+    "description":"Полка"
+},
+
+{
+ "title":"Комод",
+    "price":6000,
+    "img":"standart-3-dub-ekspresiv-bronza-01-jpg-14-1000x700.jpg",
+    "description":"Комод"
+},
+
+{
+ "title":"Комин",
+    "price":20000,
+    "img":"original-1919418131.jpg",
+    "description":"Комин"
+},
+
+{
+ "title":"Кашпо",
+    "price":2000,
+    "img":"20230624_094223_0.webp",
+    "description":"Кашпо"
+},
+
+{
+ "title":"Крісло ігрове",
+    "price":6500,
+    "img":"417280070.webp",
+    "description":"Крісло ігрове"
+}
 ]
